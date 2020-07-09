@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Rivky B",
@@ -26,6 +26,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-modal": "^3.11.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "sass-loader": "^9.0.2",
     "style-loader": "0.18.2",
     "validator": "8.0.0",
